@@ -14,6 +14,13 @@ XXIV Encontro Formativo do NAT
 
 ---
 
+## Slides da palestra
+![](img/qrcode.png)
+
+https://jespimentel.github.io/nat2026/
+
+---
+
 # Agenda
 
 - IA Gen: visão geral
@@ -24,7 +31,7 @@ XXIV Encontro Formativo do NAT
 	- **M365 Copilot** 
 - "Engenharia de prompt"
 - Prática de IA Gen
-- Possibilidades infinitas...
+- Estado da arte
 - Referências
 
 ---
@@ -237,7 +244,7 @@ Fonte: [Ejud MS](img/apoia.png)
 
 ---
 
-# Possibilidades infinitas...
+# Estado da arte
 
 ![w:650](img/harness_conceito.png)
 
