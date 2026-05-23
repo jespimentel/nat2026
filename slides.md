@@ -5,8 +5,8 @@ theme: default
 
 ---
 
-# A IA NA PROMOTORIA DE JUSTIÇA
-## Estratégias e limitações
+# INTELIGÊNCIA ARTIFICIAL APLICADA AO MPSP
+## Possibilidades e Limites
 ..................................................................
 **José Eduardo de Souza Pimentel**
 XXIV Encontro Formativo do NAT
