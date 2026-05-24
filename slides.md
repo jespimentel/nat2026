@@ -1,12 +1,12 @@
 ---
-
+false
 marp: true
 theme: default
 
 ---
 
 # INTELIGÊNCIA ARTIFICIAL APLICADA AO MPSP
-## Possibilidades e Limites
+## Possibilidades e Restrições
 ..................................................................
 **José Eduardo de Souza Pimentel**
 XXIV Encontro Formativo do NAT
@@ -254,14 +254,17 @@ Fonte: [Ejud MS](img/apoia.png)
 
 # Referências
 
+- [Repositório da palestra (ícones, prompts, slides)](https://github.com/jespimentel/nat2026)
+
 - [A IA GENERATIVA NA PROMOTORIA (Pimentel)](https://github.com/jespimentel/ia_gen_na_promotoria/raw/main/apostila/IA_Gen_Promotoria_Pimentel.pdf)
+
+- [Acervo de vídeos da ESMP (SharePoint)](https://mpspbr.sharepoint.com/sites/acervo-videos-stream/Documentos%20Compartilhados/Forms/AllItems.aspx?id=%2Fsites%2Facervo%2Dvideos%2Dstream%2FDocumentos%20Compartilhados%2FESMPSP%2FEventos%2F2025%5FIA%20Generativa%20na%20Promotoria%5FAprendizados%2C%20Limita%C3%A7%C3%B5es%20e%20o%20que%20Funciona%20Agora&p=true&ga=1) 
 
 - [Prompting Guide 101 (Google)](https://workspace.google.com/learning/content/gemini-prompt-guide?hl=pt-BR)
 
 - [What Is ChatGPT Doing … and Why Does It Work? (Stephen Wolfram)](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
-- [Acervo de vídeos da ESMP](https://mpspbr.sharepoint.com/sites/acervo-videos-stream/Documentos%20Compartilhados/Forms/AllItems.aspx?id=%2Fsites%2Facervo%2Dvideos%2Dstream%2FDocumentos%20Compartilhados%2FESMPSP%2FEventos%2F2025%5FIA%20Generativa%20na%20Promotoria%5FAprendizados%2C%20Limita%C3%A7%C3%B5es%20e%20o%20que%20Funciona%20Agora&p=true&ga=1) 
- 
+- [On the Biology of a Large Language Model (Anthropic)](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
 
 ---
 
