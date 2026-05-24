@@ -1,5 +1,5 @@
 ---
-false
+
 marp: true
 theme: default
 
@@ -41,6 +41,7 @@ https://jespimentel.github.io/nat2026/
 - Modelos aprendem como as informações se organizam e estão estatisticamente distribuídas no corpus de treinamento
 - LLMs: geram textos coerentes e relevantes em resposta aos comandos (**prompts**)
 - Não possuem conhecimentos factuais e não são "inteligentes" ([**será?**](https://x.com/OpenAI/status/2057176201782075690))
+- Funções agênticas
 
 ---
 
@@ -163,7 +164,7 @@ Fonte: [Ejud MS](img/apoia.png)
 - Conformidade (herda as políticas e permissões da empresa)
 - Integração com o MS Graph (*)
 - Copilot Studio (*) para criação de fluxos de trabalho
-- **Ponto negativo: não conversa sobre temas sensíveis** (_content filters_ do fornecedor)
+- **Ponto negativo: não conversa sobre temas sensíveis** (*content filters* do fornecedor)
 
 ---
 
@@ -172,6 +173,7 @@ Fonte: [Ejud MS](img/apoia.png)
 - Comece simples
 - Divida tarefas complexas
 - Dê um papel ao modelo
+- Indique o objetivo da tarefa
 - Adicione contexto relevante
 - Use instruções claras, específicas e diretas
 - Forneça exemplos
@@ -201,7 +203,7 @@ Fonte: [Ejud MS](img/apoia.png)
 - Seções estruturadas por XML: <externa><interna></interna></externa>
 - Emprego de "intenções declarativas" (capacidades e limitações)
 - Uso de lógica condicional (muitos "if")
-- Repetição das instruções importantes (_Lost in the middle_)
+- Repetição das instruções importantes (*Lost in the middle*)
 - Ênfases com maiúsculas e um pouco de Markdown (#, ** e -)
 - Restrições: "DO NOT", "Do not" e "don't"
 - Exemplos: bons e maus
@@ -212,19 +214,23 @@ Fonte: [Ejud MS](img/apoia.png)
 
 ## Exemplo de prompt útil 
 - Esquematizador de processos
-- [PROMPT](prompts/esquematizador.txt)
+- [PROMPT](https://github.com/jespimentel/nat2026/blob/main/prompts/esquematizador.txt)
 
 
 ## Exemplo de fluxo de trabalho de degravação de audiência
-- **1º passo:** transcrição com MP Transcreve, Word Online ou Wisper (local)
+- **1º passo:** transcrição com Transcreve MPSP, Word Online ou Wisper (local)
 - **2º passo:** Uso de prompt para a adequação do texto
-- [PROMPT](prompts/analisador_legenda.txt)
+- [PROMPT](https://github.com/jespimentel/nat2026/blob/main/prompts/analisador_legenda.txt)
 
 ---
 
 ## Criação do "agente" Steve
 - Roteiro
-- [PROMPT](prompts/steve.txt)
+- [PROMPT](https://github.com/jespimentel/nat2026/blob/main/prompts/steve.txt)
+
+---
+
+![bg contain](img/steve.png)
 
 ---
 
