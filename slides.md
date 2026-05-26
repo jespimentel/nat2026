@@ -45,7 +45,7 @@ https://jespimentel.github.io/nat2026/
 
 ---
 
-## Aplicações mais óbvias
+## Aplicações mais óbvias (na Promotoria)
 
 - Redação de documentos
 - Análise e resumo de texto
@@ -55,14 +55,14 @@ https://jespimentel.github.io/nat2026/
 
 ---
 
-## Aplicações menos óbvias
+## Aplicações menos óbvias (na Promotoria)
 
 - Obtenção de hashes e manipulação de arquivos
 - Obtenção de frames e tratamento de imagens
 - Análise de dados
 - Infográficos, linhas do tempo, esquematizações
 - Brainstorm
-- Apps ("vibe coding")
+- Apps e automatização de fluxos de trabalho ("vibe coding")
 - Etc... (**é um "canivete suíço"**)
 
 ---
@@ -87,11 +87,11 @@ https://jespimentel.github.io/nat2026/
 
 # IA Gen e Judiciário
 
-- PCA nº 0000416-89.2023.2.00.0000 (j. 21/06/2024)
+- PCA nº [0000416-89.2023.2.00.0000](https://www.migalhas.com.br/arquivos/2024/7/9769C290CD7A61_0000416-89.2023.2.00.0000_5617.pdf) (j. 21/06/2024)
 - Resolução nº [615/2025 - CNJ](https://atos.cnj.jus.br/files/original1555302025031467d4517244566.pdf)
 	- assinatura ou cadastro privado (se não tiver solução corporativa)
 	- neste caso, proibido em dados sigilosos ou protegidos por segredo de justiça
-- **Minhas considerações**:
+- **Minhas ponderações**:
 	- solução de produtividade pessoal
 	- assimetria com Defensores/Advogados
 
@@ -237,7 +237,7 @@ Fonte: [Ejud MS](img/apoia.png)
 ## Dicas de implementação dos "agentes"
 
 - Casos mais simples
-- Criação de agentes "especializados"
+- Criação de agentes "especializados" (ou *skills*)
 - Nova configuração de peças:
 	- fatos
 	- fundamentos jurídicos
@@ -260,17 +260,19 @@ Fonte: [Ejud MS](img/apoia.png)
 
 # Referências
 
-- [Repositório da palestra (ícones, prompts, slides)](https://github.com/jespimentel/nat2026)
+- [Repositório da palestra no GitHub (ícones, prompts, slides)](https://github.com/jespimentel/nat2026)
 
-- [A IA GENERATIVA NA PROMOTORIA (Pimentel)](https://github.com/jespimentel/ia_gen_na_promotoria/raw/main/apostila/IA_Gen_Promotoria_Pimentel.pdf)
+- [A IA GENERATIVA NA PROMOTORIA (apostila do Pimentel)](https://github.com/jespimentel/ia_gen_na_promotoria/raw/main/apostila/IA_Gen_Promotoria_Pimentel.pdf)
 
-- [Acervo de vídeos da ESMP (SharePoint)](https://mpspbr.sharepoint.com/sites/acervo-videos-stream/Documentos%20Compartilhados/Forms/AllItems.aspx?id=%2Fsites%2Facervo%2Dvideos%2Dstream%2FDocumentos%20Compartilhados%2FESMPSP%2FEventos%2F2025%5FIA%20Generativa%20na%20Promotoria%5FAprendizados%2C%20Limita%C3%A7%C3%B5es%20e%20o%20que%20Funciona%20Agora&p=true&ga=1) 
-
-- [Prompting Guide 101 (Google)](https://workspace.google.com/learning/content/gemini-prompt-guide?hl=pt-BR)
+- [Acervo de vídeos da ESMP (SharePoint do MPSP)](https://mpspbr.sharepoint.com/sites/acervo-videos-stream/Documentos%20Compartilhados/Forms/AllItems.aspx?id=%2Fsites%2Facervo%2Dvideos%2Dstream%2FDocumentos%20Compartilhados%2FESMPSP%2FEventos%2F2025%5FIA%20Generativa%20na%20Promotoria%5FAprendizados%2C%20Limita%C3%A7%C3%B5es%20e%20o%20que%20Funciona%20Agora&p=true&ga=1) 
 
 - [What Is ChatGPT Doing … and Why Does It Work? (Stephen Wolfram)](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 - [On the Biology of a Large Language Model (Anthropic)](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
+
+- [Prompting Guide 101 (Google)](https://workspace.google.com/learning/content/gemini-prompt-guide?hl=pt-BR)
+
+- [The Complete Guide to Building Skills for Claude (Anthropic)](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
 
 ---
 
