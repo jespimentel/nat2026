@@ -4,7 +4,7 @@
 
 ## Inteligência Artificial: usos e aplicações no trabalho
 
-### Material de apoio da palestra "INTELIGÊNCIA ARTIFICIAL APLICADA AO MPSP: Possibilidades e Restrições
+### Material de apoio da palestra "INTELIGÊNCIA ARTIFICIAL APLICADA AO MPSP: Possibilidades e Restrições"
 
 - Slides
 - Exemplos de prompts
