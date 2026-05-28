@@ -193,6 +193,33 @@ Fonte: [Ejud MS](img/apoia.png)
 
 ---
 
+## Markdown
+| Marcação        | Descrição no Prompt                                                                    | Exemplo no Prompt           |
+|-----------------|----------------------------------------------------------------------------------------|-----------------------------|
+| `# Título`      | Define um título principal, ajudando a destacar o tema geral do prompt.               | `# Analisador de IP`        |
+| `## Subtítulo`  | Define subtítulos, organizando o prompt em seções lógicas.                             | `## Instruções Detalhadas`  |
+| `**Negrito**`   | Destaca palavras ou frases importantes, chamando a atenção do LLM para termos-chave.   | `**Não inclua opiniões**`   |
+
+---
+
+## Markdown (continuação)
+
+| Marcação        | Descrição no Prompt                                                                    | Exemplo no Prompt           |
+|-----------------|----------------------------------------------------------------------------------------|-----------------------------|
+| `* Item da lista` | Outra forma comum de criar listas não ordenadas.                                      | `* Verifique gramática e ortografia.` |
+| `1. Item da lista`| Cria listas ordenadas, importantes quando a ordem dos itens é relevante.            | `1. Identifique as contradições.` |
+| `>`             | Cria um bloco de citação para destacar instruções específicas ou fornecer exemplos. | `> Siga este formato:`      |
+
+---
+
+## Markdown (continuação)
+
+| Marcação        | Descrição no Prompt                                                                    | Exemplo no Prompt           |
+|-----------------|----------------------------------------------------------------------------------------|-----------------------------|
+| `---`           | Cria uma linha horizontal para separar diferentes seções do prompt, melhorando a legibilidade. | `---`
+
+---
+
 ## "Vazamento" do System Prompt da Anthropic
 
 - [System Prompt do Claude 4](https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/Claude_4.txt) (22/05/2025)
