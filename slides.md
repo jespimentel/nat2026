@@ -59,29 +59,11 @@ https://jespimentel.github.io/nat2026/
 
 - Obtenção de hashes e manipulação de arquivos
 - Obtenção de frames e tratamento de imagens
-- Análise de dados
+- Análise e [estruturação de dados](https://jespimentel.github.io/mil_traficos/)
 - Infográficos, linhas do tempo, esquematizações
 - Brainstorm
 - Apps e automatização de fluxos de trabalho ("vibe coding")
 - Etc... (**é um "canivete suíço"**)
-
----
-
-## Privacidade
-
-- Conhecer termos de uso e opções *opt-in* ou *opt-out* dos provedores
-
-## Alucinação
-
-- Modelos não possuem compreensão real dos assuntos
-- Respostas plausíveis (baseadas em padrões probabilísticos)
-- "Não sabem o que não sabem"
-
-## Sugestões:
-
-- Conferir as informações geradas
-- Não utilizar como única fonte de pesquisa
-- Estar cientes das limitações da tecnologia
 
 ---
 
@@ -274,6 +256,26 @@ Fonte: [Ejud MS](img/apoia.png)
 	- Pessoal (GitHub, Google Keep, Obsidian, etc.)
 - Compartilhamento de agentes
 - Aprendizado constante (sempre há novidades...) 
+
+---
+
+## Pontos de atenção
+
+### Privacidade
+
+- Conhecer termos de uso e opções *opt-in* ou *opt-out* dos provedores
+
+### Alucinação
+
+- Modelos não possuem compreensão real dos assuntos
+- Respostas plausíveis (baseadas em padrões probabilísticos)
+- "Não sabem o que não sabem"
+
+### Imprescindível:
+
+- Conferir as informações geradas
+- Não utilizar como única fonte de pesquisa
+- Estar cientes das limitações da tecnologia
 
 ---
 
